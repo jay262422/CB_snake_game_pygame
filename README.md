@@ -24,15 +24,14 @@ This project is a classic Snake Game developed using **Python** and **Pygame**. 
 - Pygame library
 
 Install Pygame with the following command:
-```bash
-
-pip install pygame
+   ```bash
+   pip install pygame
 
 ## How to Run the Game
 
 1. **Clone the Repository**:
    ```bash
-      git clone https://github.com/your-username/snake-game-oop.git
+   git clone https://github.com/your-username/snake-game-oop.git
 
 
 ## Acknowledgments
