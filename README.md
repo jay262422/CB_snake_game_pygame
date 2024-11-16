@@ -17,6 +17,7 @@ This project is a classic Snake Game developed using **Python** and **Pygame**. 
 - **Code Optimization**: Learned how to refactor code to reduce redundancy and improve maintainability.
 - **Problem-Solving**: Enhanced debugging skills by identifying and fixing gameplay logic issues.
 
+## folder
 /snake_game
   ├── main.py            # Main game logic
   ├── resources/         # Images and audio resources
