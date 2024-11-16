@@ -17,8 +17,33 @@ This project is a classic Snake Game developed using **Python** and **Pygame**. 
 - **Code Optimization**: Learned how to refactor code to reduce redundancy and improve maintainability.
 - **Problem-Solving**: Enhanced debugging skills by identifying and fixing gameplay logic issues.
 
+/snake_game
+  ├── main.py            # Main game logic
+  ├── resources/         # Images and audio resources
+      ├── apple.jpg      # Apple image
+      ├── block.jpg      # Snake block image
+      ├── background.jpg # Game background image
+      ├── bg_music_1.mp3 # Background music
+      ├── ding.mp3       # Sound for eating an apple
+      ├── crash.mp3      # Sound for game over
+
+
+## Requirements
+- Python 3.x
+- Pygame library
+
+Install Pygame with the following command:
+```bash
+
+pip install pygame
+
 ## How to Run the Game
 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-username/snake-game-oop.git
+
+
+## Acknowledgments
+Special thanks to the [CodeBasics YouTube channel](https://www.youtube.com/@codebasics) for the tutorial series that inspired this project.
+
