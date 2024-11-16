@@ -21,7 +21,15 @@ This project is a classic Snake Game developed using **Python** and **Pygame**. 
 
 The project structure looks like this:
 
-snake_game/ │ ├── main.py # Main game logic ├── resources/ # Images and audio resources │ ├── apple.jpg # Apple image │ ├── block.jpg # Snake block image │ ├── background.jpg # Game background image │ ├── bg_music_1.mp3 # Background music │ ├── ding.mp3 # Sound for eating an apple │ ├── crash.mp3 # Sound for game over
+snake_game/
+│ ├── main.py # Main game logic 
+| ├── resources/ # Images and audio resources 
+| │ ├── apple.jpg # Apple image 
+| │ ├── block.jpg # Snake block image 
+| │ ├── background.jpg # Game background image 
+| │ ├── bg_music_1.mp3 # Background music 
+| │ ├── ding.mp3 # Sound for eating an apple 
+| │ ├── crash.mp3 # Sound for game over
 
 ## Requirements
 - Python 3.x
