@@ -17,35 +17,6 @@ This project is a classic Snake Game developed using **Python** and **Pygame**. 
 - **Code Optimization**: Learned how to refactor code to reduce redundancy and improve maintainability.
 - **Problem-Solving**: Enhanced debugging skills by identifying and fixing gameplay logic issues.
 
-## Folder Structure
-
-The project structure looks like this:
-
-project-root/
-
-├── src/
-
-│   ├── components/
-
-│   │   ├── Button.js
-
-│   │   └── Input.js
-
-│   ├── utils/
-
-│   │   └── helpers.js
-
-│   └── App.js
-
-├── public/
-
-│   ├── index.html
-
-│   └── favicon.ico
-
-├── package.json
-
-└── README.md
 
 
 ## Requirements
@@ -61,7 +32,7 @@ pip install pygame
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/snake-game-oop.git
+      git clone https://github.com/your-username/snake-game-oop.git
 
 
 ## Acknowledgments
